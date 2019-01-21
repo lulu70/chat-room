@@ -1,14 +1,14 @@
 {
-  "main.css": "/chat-room/static/css/main.0cf766fc.chunk.css",
-  "main.js": "/chat-room/static/js/main.b41cc000.chunk.js",
-  "main.js.map": "/chat-room/static/js/main.b41cc000.chunk.js.map",
-  "static/js/1.d2dc122c.chunk.js": "/chat-room/static/js/1.d2dc122c.chunk.js",
-  "static/js/1.d2dc122c.chunk.js.map": "/chat-room/static/js/1.d2dc122c.chunk.js.map",
-  "runtime~main.js": "/chat-room/static/js/runtime~main.51b00e00.js",
-  "runtime~main.js.map": "/chat-room/static/js/runtime~main.51b00e00.js.map",
-  "static/media/180825_01_laptop.mp4": "/chat-room/static/media/180825_01_laptop.91a96d32.mp4",
-  "static/css/main.0cf766fc.chunk.css.map": "/chat-room/static/css/main.0cf766fc.chunk.css.map",
-  "index.html": "/chat-room/index.html",
-  "precache-manifest.82042758b4305b02ea38230362d1f15c.js": "/chat-room/precache-manifest.82042758b4305b02ea38230362d1f15c.js",
-  "service-worker.js": "/chat-room/service-worker.js"
+  "main.css": "/static/css/main.0cf766fc.chunk.css",
+  "main.js": "/static/js/main.5783c0e7.chunk.js",
+  "main.js.map": "/static/js/main.5783c0e7.chunk.js.map",
+  "static/js/1.3a698e85.chunk.js": "/static/js/1.3a698e85.chunk.js",
+  "static/js/1.3a698e85.chunk.js.map": "/static/js/1.3a698e85.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/180825_01_laptop.mp4": "/static/media/180825_01_laptop.91a96d32.mp4",
+  "static/css/main.0cf766fc.chunk.css.map": "/static/css/main.0cf766fc.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.96fb87ddc1796feb54f14483435d9a67.js": "/precache-manifest.96fb87ddc1796feb54f14483435d9a67.js",
+  "service-worker.js": "/service-worker.js"
 }
